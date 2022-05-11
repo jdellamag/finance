@@ -8,7 +8,7 @@ import yfinance as yf
 #Data viz
 import plotly.graph_objs as go
 
-# Token Variables (can rename variables but need to keep ticker,period,interval the same)
+# Token Variables (can rename variables but need to keep ticker,period,interval)
 data1 = yf.download(tickers='BTC-USD', period = '4h', interval = '1h')
 
 data2 = yf.download(tickers='ETH-USD', period = '4h', interval = '1h')
