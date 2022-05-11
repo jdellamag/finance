@@ -24,7 +24,6 @@ print(data3)
 
 
 
-print
 
 
 
