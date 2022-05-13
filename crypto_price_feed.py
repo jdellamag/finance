@@ -23,7 +23,9 @@ print(data3)
 print("LUNA-USD")
 print(data4)
 
-print("END FEED")
+
+
+
 
 
 
