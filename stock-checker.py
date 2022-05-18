@@ -18,3 +18,4 @@ stock = input("What stock ticker do you want to look at?")
 days = int(input("How many days back do you want to look"))
 freq = int(input("How many hours apart should numbers be pulled?"))
 
+print("Stock: ", stock)
